@@ -1,0 +1,10 @@
+name: IronAxe Random TP
+main: rtp.MainPlugin
+version: 0.1
+commands:
+  randomtp:
+    description: Teleport the player to a random place.
+    usage: /randomtp [small|medium|large]
+  rtp:
+    description: Teleport the player to a random place.
+    usage: /randomtp [small|medium|large]

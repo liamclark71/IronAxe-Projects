@@ -1,0 +1,10 @@
+radius:
+  small: 4000
+  medium: 8000
+  large: 12000
+  minRad: 200
+center:
+  x: 0
+  z: 0
+cooldown: 300
+tpintowater: false
